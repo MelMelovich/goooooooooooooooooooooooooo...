@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "даааааааааааааваааааааааааааааааааааай", "даааааааааааааваааааааааааааааааааааай\даааааааааааааваааааааааааааааааааааай.csproj", "{9C8A367D-E848-4CBC-BA5C-9ADAE3A8AEEA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E20DC2D2-8F0D-47E8-B156-4A37CF9443CA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{078AC370-9ED4-485A-9E8F-2BC14EF3046B}"
 	ProjectSection(SolutionItems) = preProject
-		ns-yf-cxtnxbrt.cs = ns-yf-cxtnxbrt.cs
+		Class1.cs = Class1.cs
 	EndProjectSection
 EndProject
 Global
