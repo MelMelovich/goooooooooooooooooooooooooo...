@@ -1,4 +1,8 @@
-﻿using System;
+﻿
+// TODO создать файл -класс которій соответствует вашему заданию
+// фмксация достижений
+
+ using System;
 
 public class Class1
 {
