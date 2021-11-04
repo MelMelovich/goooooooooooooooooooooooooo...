@@ -1,0 +1,31 @@
+Using System;
+using System.Collections.Generic;
+
+Using User;
+
+
+namespace даааааааааааааваааааааааааааааааааааай
+
+ class UsersList
+ {
+    // список List - это массив который можно увеличивать  и уменьшать
+    // User - это класс который задает тип данных
+    List<User> userList= new List<User>();
+    
+    // конструктор
+    public UsersList(){
+      
+    }
+    
+    //Добавление пользователя в список
+    public void UserAdd(string Name){
+      int id = userLict.Count+1;
+      userList.Add(new User(id, Name));
+    }
+    
+    //Получение пользователя по коду
+    public User UserAdd(int id){
+      return  userList[id-1];
+    }
+    
+ }
